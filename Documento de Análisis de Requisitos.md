@@ -224,3 +224,4 @@ La empresa **Bici Caribe** gestiona el alquiler diario de bicicletas para turist
   * Finaliza la ejecución únicamente cuando se ingresa `7`.
 
 * **Salidas:** Menú de opciones, mensajes de opción inválida y flujo hacia cada requisito seleccionado.
+
