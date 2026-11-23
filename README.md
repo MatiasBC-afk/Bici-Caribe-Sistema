@@ -1,0 +1,6 @@
+# Sistema Bici Caribe
+
+Proyecto de Fundamentos de Programación — Alternativa I (Alquiler de bicicletas en Santa Marta).
+
+## Video explicativo
+[Ver video explicativo en Google Drive](https://drive.google.com/file/d/1wPb6RAO8ks5RtxtiYIlWlLDdkeoPgLlL/view?usp=sharing)
