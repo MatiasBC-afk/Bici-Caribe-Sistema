@@ -2,7 +2,7 @@
 **Proyecto:** Sistema de Gestión de Alquiler de Bicicletas – Bici Caribe (`Bici-Caribe-Sistema`)  
 **Asignatura:** Fundamentos de Programación – Universidad del Magdalena  
 **Alternativa:** Alternativa I – Bici Caribe  
-**Integrantes:** Matías José Bossio Castillo *(completar con los nombres de los demás integrantes del equipo)*  
+**Integrantes:** Matías José Bossio Castillo, Diego Mendoza y Fabian Rua 
 **Repositorio:** https://github.com/MatiasBC-afk/Bici-Caribe-Sistema  
 
 ---
@@ -222,4 +222,5 @@ La empresa **Bici Caribe** gestiona el alquiler diario de bicicletas para turist
     7. Salir
   * Tras atender cualquier opción válida (`1`–`6`) o ante una entrada no válida, vuelve a mostrar el menú.
   * Finaliza la ejecución únicamente cuando se ingresa `7`.
+
 * **Salidas:** Menú de opciones, mensajes de opción inválida y flujo hacia cada requisito seleccionado.
